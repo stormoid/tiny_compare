@@ -1,5 +1,5 @@
 # tiny_compare
-Minimalist side-by-side source file comparison, lightweight file comparison tool built with Python and Tkinter.
+Minimalist side-by-side source file comparison, built with Python and Tkinter.
 
 ## Overview
 
